@@ -1,0 +1,1 @@
+Ce travail englobe plusieurs aspects essentiels de l'administration réseau sous LINUX, notamment la configuration des interfaces réseau, la mise en place du routage statique, la gestion des pare-feu avec iptables et nftables, la configuration d'un serveur DNS local avec BIND9 et le déploiement d'un serveur web Apache
